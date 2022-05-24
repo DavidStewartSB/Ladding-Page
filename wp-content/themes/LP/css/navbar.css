@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    align-items: flex-end !important;
+    justify-content: space-around !important;
+    margin-top: 3rem;
+    font-size: 1.4em;
+}
+
+nav .container{
+    align-items: flex-end !important;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    align-items: center;
+    font-size: 3.25rem !important;
+}
+
+nav button{
+    width: 100%;
+    max-width: 17rem;
+    height: 4.5rem;
+}
+
+.navbar-nav{
+    align-items: center;
+}
